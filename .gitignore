@@ -1,0 +1,9 @@
+__debug_bin
+
+*.zip
+bin
+bin/
+
+application
+*.exe
+.env
